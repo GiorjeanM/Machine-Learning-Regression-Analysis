@@ -19,7 +19,7 @@ Python, Excel, Tableau
 # Libraries
 pandas, NumPy, os, matplotlib, scipy, seaborn, pyplot, Kmeans, pylab, sklearn
 
-# Tableau Visualization
-https://public.tableau.com/views/NewYorkCityAirBNB_16528203622220/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+# [Tableau Visualization](https://public.tableau.com/views/NewYorkCityAirBNB_16528203622220/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 
 
